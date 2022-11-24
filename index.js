@@ -54,7 +54,7 @@ function init(){
     }
     ball.x = cnv.width/2 - ball.size/2
     ball.y = cnv.height/2 - ball.size/2
-    ball.yv = 55
+    ball.yv = 10
 }
 
 // update assets
